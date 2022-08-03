@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2\\Lesson2.csproj",
-      "projectName": "Lesson2",
-      "projectPath": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2\\Lesson2.csproj",
+      "projectUniqueName": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2-Variables\\Lesson2-Variables.csproj",
+      "projectName": "Lesson2-Variables",
+      "projectPath": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2-Variables\\Lesson2-Variables.csproj",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2\\obj\\",
+      "outputPath": "E:\\ОБУЧЕНИЕ\\Beetroot Academy\\Beetroot\\Lesson2-Variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
