@@ -14,6 +14,13 @@ if (!Int32.TryParse(Console.ReadLine(), out y))
     return;
 }
 
+int temp = y;
+if (x > y)
+{
+    y = x;
+    x = temp;
+}
+
 int sum = 0;
 for (int i = x; i <= y; i++)
 {
