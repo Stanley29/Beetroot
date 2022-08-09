@@ -27,3 +27,4 @@ DateTime now = DateTime.Now;
 
 Console.WriteLine($"{nextYear.Subtract(now).Days} days left to New Year");
 Console.WriteLine($"{now.Subtract(pastYear).Days} days passed from New Year");
+//checked
