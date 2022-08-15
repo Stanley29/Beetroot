@@ -234,10 +234,21 @@
 // System.Console.WriteLine("Press any key to exit.");
 // System.Console.ReadKey();
 
-var tuple = (5, 10);
-Console.WriteLine(tuple.Item2);
-tuple.Item1 += 26;
-Console.WriteLine(tuple.Item1);
+// var tuple = (5, 10);
+// Console.WriteLine(tuple.Item2);
+// tuple.Item1 += 26;
+// Console.WriteLine(tuple.Item1);
+//
+// (int, int) tuple2 = (5, 10);
+// (string, int, double) person = ("Tom", 25, 81.
 
-(int, int) tuple2 = (5, 10);
-(string, int, double) person = ("Tom", 25, 81.23);
+void Func(string arr)
+{
+    arr = arr + "world";
+}
+
+string arr = "Hello";
+Console.WriteLine(arr);
+
+Func(arr);
+Console.WriteLine(arr);
