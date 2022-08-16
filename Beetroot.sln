@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6-Arrays", "Lesson6-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7-Strings", "Lesson7-Strings\Lesson7-Strings.csproj", "{07C74C09-EFB0-4A40-AF17-C0B8B60737F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8-Regex", "Lesson8-Regex\Lesson8-Regex.csproj", "{23BC2932-601E-48C5-BBE5-FCC28CC1968B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{07C74C09-EFB0-4A40-AF17-C0B8B60737F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C74C09-EFB0-4A40-AF17-C0B8B60737F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C74C09-EFB0-4A40-AF17-C0B8B60737F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BC2932-601E-48C5-BBE5-FCC28CC1968B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BC2932-601E-48C5-BBE5-FCC28CC1968B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BC2932-601E-48C5-BBE5-FCC28CC1968B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BC2932-601E-48C5-BBE5-FCC28CC1968B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

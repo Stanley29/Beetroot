@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\Lesson8-Regex.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\Lesson8-Regex.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\Lesson8-Regex.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\Lesson8-Regex.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\ref\Lesson8-Regex.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\bin\Debug\net6.0\Lesson8-Regex.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\ref\Lesson8-Regex.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson8-Regex\obj\Debug\net6.0\Lesson8-Regex.genruntimeconfig.cache
