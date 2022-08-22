@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\Incapsulation.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\Incapsulation.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\Incapsulation.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\Incapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\ref\Incapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\bin\Debug\net6.0\Incapsulation.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\ref\Incapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Incapsulation\obj\Debug\net6.0\Incapsulation.genruntimeconfig.cache
