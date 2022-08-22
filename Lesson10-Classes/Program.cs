@@ -9,3 +9,4 @@ Console.WriteLine("-------------------------------------------");
 b.ShowInfo();
 Console.WriteLine("-------------------------------------------");
 c.ShowInfo();
+//checked
