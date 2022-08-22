@@ -1,4 +1,4 @@
-﻿// using System;
+﻿using System;
 // class ArrayExample
 // {
 //     static void Main()
@@ -241,14 +241,3 @@
 //
 // (int, int) tuple2 = (5, 10);
 // (string, int, double) person = ("Tom", 25, 81.
-
-void Func(string arr)
-{
-    arr = arr + "world";
-}
-
-string arr = "Hello";
-Console.WriteLine(arr);
-
-Func(arr);
-Console.WriteLine(arr);

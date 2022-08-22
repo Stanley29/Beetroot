@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\Lesson10-Classes.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\Lesson10-Classes.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\Lesson10-Classes.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\Lesson10-Classes.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\ref\Lesson10-Classes.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\bin\Debug\net6.0\Lesson10-Classes.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\ref\Lesson10-Classes.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson10-Classes\obj\Debug\net6.0\Lesson10-Classes.genruntimeconfig.cache
