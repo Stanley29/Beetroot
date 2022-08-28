@@ -37,7 +37,7 @@ public class Library
     #endregion
 
     #region Methods
-
+    
     public void ShowInfo()
     {
         Console.WriteLine($"Name: {name}");
