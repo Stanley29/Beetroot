@@ -10,3 +10,4 @@ a.ShowStudents();
 a.ShowSchedule();
 a.Teachers[a.Teachers.IndexOf(b)].ChangeInfo("Ben", "Which", Classes.History);
 a.ShowTeachers();
+//checked
