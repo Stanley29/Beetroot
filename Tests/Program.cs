@@ -244,12 +244,12 @@ using Tests;
 //
 // (int, int) tuple2 = (5, 10);
 // (string, int, double) person = ("Tom", 25, 81.
-
-
-Animal myAnimal = new Animal();  // Create a Animal object
-Animal myPig = new Pig();  // Create a Pig object
-Animal myDog = new Dog();  // Create a Dog object
-
-myAnimal.animalSound();
-myPig.animalSound();
-myDog.animalSound();
+//
+//
+// Animal myAnimal = new Animal();  // Create a Animal object
+// Animal myPig = new Pig();  // Create a Pig object
+// Animal myDog = new Dog();  // Create a Dog object
+//
+// myAnimal.animalSound();
+// myPig.animalSound();
+// myDog.animalSound();

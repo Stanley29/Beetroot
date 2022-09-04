@@ -1,0 +1,5 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\AbstractClasses\obj\Debug\net6.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\AbstractClasses\obj\Debug\net6.0\AbstractClasses.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\AbstractClasses\obj\Debug\net6.0\AbstractClasses.csproj.CoreCompileInputs.cache

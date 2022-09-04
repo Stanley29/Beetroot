@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\Structures.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\Structures.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\Structures.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\Structures.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\ref\Structures.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\bin\Debug\net6.0\Structures.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\ref\Structures.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Structures\obj\Debug\net6.0\Structures.genruntimeconfig.cache
