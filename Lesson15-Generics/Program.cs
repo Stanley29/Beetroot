@@ -58,3 +58,4 @@ class Stack<T>
         arr = list.ToArray();
     }
 }
+//checked
