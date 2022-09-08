@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\Lesson17-Snake.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\Lesson17-Snake.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\Lesson17-Snake.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\Lesson17-Snake.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\ref\Lesson17-Snake.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\bin\Debug\net6.0\Lesson17-Snake.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\ref\Lesson17-Snake.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson17-Snake\obj\Debug\net6.0\Lesson17-Snake.genruntimeconfig.cache

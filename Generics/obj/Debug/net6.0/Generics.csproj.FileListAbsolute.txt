@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\Generics.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\Generics.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\Generics.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\ref\Generics.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\bin\Debug\net6.0\Generics.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\ref\Generics.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache

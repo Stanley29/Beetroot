@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\Tests.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\Tests.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\Tests.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\Tests.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\ref\Tests.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\bin\Debug\net6.0\Tests.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\ref\Tests.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Tests\obj\Debug\net6.0\Tests.genruntimeconfig.cache

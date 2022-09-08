@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\Lesson11-Encapsulation.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\Lesson11-Encapsulation.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\Lesson11-Encapsulation.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\Lesson11-Encapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\ref\Lesson11-Encapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\bin\Debug\net6.0\Lesson11-Encapsulation.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\ref\Lesson11-Encapsulation.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson11-Encapsulation\obj\Debug\net6.0\Lesson11-Encapsulation.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\Lesson4-MethodsHome.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\Lesson4-MethodsHome.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\Lesson4-MethodsHome.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\Lesson4-MethodsHome.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\ref\Lesson4-MethodsHome.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\bin\Debug\net6.0\Lesson4-MethodsHome.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\ref\Lesson4-MethodsHome.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson4-MethodsHome\obj\Debug\net6.0\Lesson4-MethodsHome.genruntimeconfig.cache

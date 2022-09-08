@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\Lesson3-ifElse.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\Lesson3-ifElse.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\Lesson3-ifElse.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\Lesson3-ifElse.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\ref\Lesson3-ifElse.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\bin\Debug\net6.0\Lesson3-ifElse.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\ref\Lesson3-ifElse.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson3-ifElse\obj\Debug\net6.0\Lesson3-ifElse.genruntimeconfig.cache
