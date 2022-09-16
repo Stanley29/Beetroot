@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ReflectionProject.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ReflectionProject.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ReflectionProject.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ReflectionProject.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ref\ReflectionProject.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\bin\Debug\net6.0\ReflectionProject.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ref\ReflectionProject.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ReflectionProject\obj\Debug\net6.0\ReflectionProject.genruntimeconfig.cache

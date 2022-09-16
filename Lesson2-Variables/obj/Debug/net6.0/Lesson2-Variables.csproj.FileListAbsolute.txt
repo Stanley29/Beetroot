@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\Lesson2-Variables.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\Lesson2-Variables.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\Lesson2-Variables.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\Lesson2-Variables.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\ref\Lesson2-Variables.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\bin\Debug\net6.0\Lesson2-Variables.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\ref\Lesson2-Variables.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson2-Variables\obj\Debug\net6.0\Lesson2-Variables.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\bin\Debug\net6.0\ref\ClassLibrary1.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb

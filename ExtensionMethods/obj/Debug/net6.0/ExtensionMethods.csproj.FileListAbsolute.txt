@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ref\ExtensionMethods.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache

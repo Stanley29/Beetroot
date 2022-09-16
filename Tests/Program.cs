@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text;
-using Tests;
 
 // class ArrayExample
 // {
@@ -254,3 +253,10 @@ using Tests;
 // myPig.animalSound();
 // myDog.animalSound();
 
+class Program
+{
+    static void Main(string[] args)
+    {
+        
+    }
+}
