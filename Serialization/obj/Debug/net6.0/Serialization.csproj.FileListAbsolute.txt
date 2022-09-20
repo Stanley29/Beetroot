@@ -1,0 +1,15 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\Serialization.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\Serialization.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\Serialization.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\Serialization.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\ref\Serialization.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\bin\Debug\net6.0\Serialization.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\ref\Serialization.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Serialization\obj\Debug\net6.0\Serialization.genruntimeconfig.cache

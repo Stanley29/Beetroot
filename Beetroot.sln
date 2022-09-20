@@ -46,6 +46,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_I", "SOLID_I\SOLID_I.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson20-LINQ", "Lesson20-LINQ\Lesson20-LINQ.csproj", "{EFBA8864-39A9-47C1-8A57-800BCC65A17A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{6709CE3B-B7A7-4FCD-B8B6-6C0972DE0665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson21-Reflection", "Lesson21-Reflection\Lesson21-Reflection.csproj", "{314AC942-2B55-4BE2-9550-4D2E90698134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +148,13 @@ Global
 		{EFBA8864-39A9-47C1-8A57-800BCC65A17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFBA8864-39A9-47C1-8A57-800BCC65A17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFBA8864-39A9-47C1-8A57-800BCC65A17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6709CE3B-B7A7-4FCD-B8B6-6C0972DE0665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6709CE3B-B7A7-4FCD-B8B6-6C0972DE0665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6709CE3B-B7A7-4FCD-B8B6-6C0972DE0665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6709CE3B-B7A7-4FCD-B8B6-6C0972DE0665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314AC942-2B55-4BE2-9550-4D2E90698134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314AC942-2B55-4BE2-9550-4D2E90698134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314AC942-2B55-4BE2-9550-4D2E90698134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314AC942-2B55-4BE2-9550-4D2E90698134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
