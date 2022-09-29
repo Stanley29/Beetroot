@@ -1,0 +1,17 @@
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Lesson24-ApiRequest.exe
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Lesson24-ApiRequest.deps.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Lesson24-ApiRequest.runtimeconfig.json
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Lesson24-ApiRequest.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\ref\Lesson24-ApiRequest.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Lesson24-ApiRequest.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.csproj.AssemblyReference.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.GeneratedMSBuildEditorConfig.editorconfig
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.AssemblyInfoInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.AssemblyInfo.cs
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.csproj.CoreCompileInputs.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\ref\Lesson24-ApiRequest.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.pdb
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.genruntimeconfig.cache
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ОБУЧЕНИЕ\Beetroot Academy\Beetroot\Lesson24-ApiRequest\obj\Debug\net6.0\Lesson24-ApiRequest.csproj.CopyComplete
